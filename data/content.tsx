@@ -68,7 +68,7 @@ export type Trainer = {
 
 export const trainers: Trainer[] = [
   {
-    name: "Ahmed Raza",
+    name: "Zunaira",
     role: "Head Strength Coach",
     exp: "9 Yrs Experience",
     img: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop",
@@ -80,7 +80,7 @@ export const trainers: Trainer[] = [
     img: "https://images.unsplash.com/photo-1594381898411-846e7d193883?q=80&w=800&auto=format&fit=crop",
   },
   {
-    name: "Bilal Hussain",
+    name: "Adil imran",
     role: "Bodybuilding Coach",
     exp: "11 Yrs Experience",
     img: "https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&w=800&auto=format&fit=crop",
@@ -113,7 +113,7 @@ export type Testimonial = {
 
 export const testimonials: Testimonial[] = [
   {
-    name: "Hassan Ali",
+    name: "Ameer Abdullah",
     role: "Lost 18kg in 6 months",
     text: "Afaq Fitness completely changed how I train. The coaches actually track your progress and adapt the plan every week.",
   },
@@ -123,12 +123,12 @@ export const testimonials: Testimonial[] = [
     text: "I have never felt stronger. The personal attention here is unlike any gym I have trained at before.",
   },
   {
-    name: "Usman Tariq",
+    name: "Shakil Awan",
     role: "CrossFit Athlete",
     text: "The energy, the coaching, the community — everything about Afaq pushes you to become the best version of yourself.",
   },
   {
-    name: "Mahnoor Sheikh",
+    name: "Mnahil Sheikh",
     role: "Nutrition & Weight Loss",
     text: "The nutrition coaching alone was worth it. Combined with training, I hit goals I thought were years away.",
   },
