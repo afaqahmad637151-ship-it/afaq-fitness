@@ -97,7 +97,7 @@ export const galleryImages: string[] = [
   "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1584735175315-9d5df23860e6?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=900&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=900&auto=format&fit=crop",
+  "https://https://www.telegraph.co.uk/content/dam/recommended/2026/02/20/TELEMMGLPICT000464976656_17716027079260_trans_NvBQzQNjv4BqX9o82QLCCvqq27mKq1dHU2y7H3PtzAAtUDc1rfmQfsI.jpeg?imwidth=640?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?q=80&w=900&auto=format&fit=crop",
