@@ -18,8 +18,9 @@ export default function Gallery() {
           </Reveal>
 
           <div className="columns-2 md:columns-3 gap-4 space-y-4">
-            {galleryImages.map((src) => (
-              <Reveal key={src} className="relative break-inside-avoid rounded-xl overflow-hidden group">
+            {galleryImages.map((src, index) => (
+               <Reveal
+    key={`${src}-${index}`} className="relative break-inside-avoid rounded-xl overflow-hidden group">
                 <button
                   type="button"
                   onClick={() => setActive(src)}
