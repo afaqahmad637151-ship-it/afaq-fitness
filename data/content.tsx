@@ -98,7 +98,7 @@ export const galleryImages: string[] = [
   "https://images.unsplash.com/photo-1584735175315-9d5df23860e6?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=900&auto=format&fit=crop",
   "/image-1.jpg",
-  "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=900&auto=format&fit=crop",
+  "/image-1.jpg",
   "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1571731956672-f2b94d7dd0cb?q=80&w=900&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?q=80&w=900&auto=format&fit=crop",
